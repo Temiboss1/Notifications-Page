@@ -8,7 +8,6 @@
 --Red: hsl(1, 90%, 64%);
 --Blue: hsl(219, 85%, 26%);
 --White: hsl(0, 0%, 100%);
---Body-background: hsl(228, 71%, 99%);
 --Very-light-grayish-blue: hsl(210, 60%, 98%);
 --Light-grayish-blue1: hsl(211, 68%, 94%);
 --Light-grayish-blue2: hsl(205, 33%, 90%);
@@ -35,7 +34,7 @@ body {
     width: 100%;
     font-family: "Plus Jakarta Sans", sans-serif;
     font-size: 16px;
-    background-color: var(--Body-background);
+    background-color: var(--Very-light-grayish-blue);
     color: var(--Dark-grayish-blue);
     font-weight: 500;
 }
